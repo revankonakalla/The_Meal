@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">The Meal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="home">home</string>
+    <string name="favourites">favourites</string>
+    <string name="tags">tags:</string>
+    <string name="nationality">nationality:</string>
+    <string name="category">category:</string>
+    <string name="instructions">instructions:</string>
+    <string name="youtubeurl">youtubeUrl:</string>
+    <string name="search_by_countries_nationality_ex_indian">search by countries nationality ex:indian</string>
+    <string name="search">search</string>
+    <string name="set_to_wdiget">set to wdiget</string>
+    <string name="no_url">no url\'s available</string>
+    <string name="img">image</string>
+    <string name="imageview">imageview</string>
+    <string name="enter_feedback_here">enter feedback here</string>
+    <string name="send">send</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="remove_snackbar">removed from favourites</string>
+    <string name="add_snackbar">added to favourites</string>
+    <string name="thanks_feed">Thanks for your feedback!</string>
+</resources>
