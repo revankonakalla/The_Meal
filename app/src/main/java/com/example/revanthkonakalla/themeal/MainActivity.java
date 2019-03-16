@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
             opt = savedInstanceState.getString("savekey");
             getFrag(opt);
-
+//just for committing
 
         } else {
             getFrag(opt);
